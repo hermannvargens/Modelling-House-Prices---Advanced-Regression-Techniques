@@ -8,4 +8,4 @@ Esta é a segunda parte do projeto relacionado ao dataset de competição do Kag
 
 3. Utilizar a técnica de Stacking Generalization, para combinar todas as predições de forma a encontrar um modelo cujo desempenho supere todos os outros modelos individualmente.  
 
-Para acessar a Análise Exploratória de Dados completa, clique [aqui](https://hermannvargens.github.io/advaced_regression_houses/).
+Para acessar a Análise Exploratória de Dados completa, clique [aqui]([https://hermannvargens.github.io/advaced_regression_houses/](https://hermannvargens.github.io/EDA_advaced_regression_houses/)).
